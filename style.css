@@ -1,0 +1,24 @@
+.grid
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.col
+{
+    display: flex;
+    
+    transition: 0s 100000s;
+}
+
+.col:hover
+{
+    display: flex;
+    
+    background-color: red;
+    transition: 0s;
+    
+}
+
+
+
